@@ -1,4 +1,4 @@
-# Minesweeper
+# Tetris
 Tetris classic clone written in C++ suing SDL2
 
 ## Build and run
