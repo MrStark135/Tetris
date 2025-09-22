@@ -1,0 +1,21 @@
+{
+	"folders": 
+	[
+		{
+			"path": "./"
+		}
+	],
+	"settings":
+	{
+		"files.exclude":
+		{
+			// ".dep": true,
+			// ".obj": true,
+			// ".vscode/": true,
+			// "build/*.dll": true,
+			// // "Makefile": true,
+			// "*.md": true,
+			// "*.cmd": true
+		},
+	}
+}
