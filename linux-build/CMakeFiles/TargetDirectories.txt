@@ -1,3 +1,0 @@
-/home/user03/DEVELOPMENT DB/C++ DEV/Tetris Classic/linux-build/CMakeFiles/Tetris.dir
-/home/user03/DEVELOPMENT DB/C++ DEV/Tetris Classic/linux-build/CMakeFiles/edit_cache.dir
-/home/user03/DEVELOPMENT DB/C++ DEV/Tetris Classic/linux-build/CMakeFiles/rebuild_cache.dir
